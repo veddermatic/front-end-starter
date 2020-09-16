@@ -27,6 +27,7 @@ const App = () => {
     <div className="App">
       <h1>List of Buildings</h1>
       <button onClick={handleClick}>Load Data</button>
+      <p className="message-text">No data loaded</p>
     </div>
   );
 };
