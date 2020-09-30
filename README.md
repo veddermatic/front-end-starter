@@ -1,9 +1,9 @@
-# Hatch Front End Demo
+# Hatch Front End Starter
 
 To get going:
 
 - Clone this repo
-- `cd front-end-demo`
+- `cd front-end-starter`
 - `npm install`
 - get a snack
 - `npm start`
@@ -15,4 +15,4 @@ To get going:
 - While loading data, a loading indicator is displayed, replacing the no data message.
 - After the data loads, the loading indicator is removed, and we display a list of buildings to the user. Under each bulding is a list of commodities that the building uses. The commodity names should be human-readable. An example is below, but you do not need to match the styling.
 
-![List of Buildings](https://github.com/hatchdata/front-end-demo/blob/master/listOfBuildings.png)
+![List of Buildings](https://github.com/veddermatic/front-end-starter/blob/master/listOfBuildings.png)

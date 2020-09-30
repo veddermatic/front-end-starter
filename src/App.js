@@ -8,6 +8,8 @@ import "./App.css";
  * with data just like calling `fetch('https://my.api/data')` would.
  *
  * To keep things simple, this one can't fail =)
+ *
+ * NOTE: you are not allowed to move or modify this function.
  */
 const loadTheData = () => {
   return new Promise((resolve) => {
